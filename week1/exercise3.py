@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-#from __future__ import unicode_literals
+from __future__ import unicode_literals
 
 ipvsix_addr_one = '2001:558:6025:14:44:b89f:e93b:dddd'
 IPVSIX_ADDR_TWO = '::1'
